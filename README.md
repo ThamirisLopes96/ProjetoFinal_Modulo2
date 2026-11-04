@@ -171,10 +171,6 @@ utilizadas nas análises apresentadas no dashboard.
 **Captura ilustrativa do dashboard:**\
 ![Dashboard de economia](docs/img/dashboard_economia.png)
 
-> Salve uma captura real do relatório com o nome
-> `dashboard_economia.png` em `docs/img/`, ou remova esta referência
-> caso não queira incluir a imagem.
-
 ## 7. Estrutura do repositório
 
 ``` text
@@ -288,15 +284,6 @@ Como possibilidades de evolução, destacam-se:
     elevados.
 -   Aprimoramento da documentação de auditoria e rastreabilidade das
     transformações.
-
-## 11. Apresentação do projeto
-
-**Vídeo de defesa técnica:** \[Inserir link público do Google Drive\]
-
-O vídeo apresenta as etapas de limpeza em Python, decisões da modelagem
-dimensional, consultas SQL, navegação e indicadores do Power BI,
-planejamento das Sprints e oportunidades de melhoria.
-
 ------------------------------------------------------------------------
 
 **Autora:** Thamiris Lopes\
