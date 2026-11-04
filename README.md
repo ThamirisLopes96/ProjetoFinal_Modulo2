@@ -124,12 +124,6 @@ O calendário é construído no Power BI com DAX, contendo atributos
 temporais e ordenação adequada dos meses. A solução não utiliza a
 hierarquia automática de datas do Power BI.
 
-**Diagrama do modelo:**\
-![Modelo dimensional](docs/img/modelo_estrela.png)
-
-> Se a imagem do modelo ainda não estiver nessa pasta, salve a captura
-> do modelo como `modelo_estrela.png` em `docs/img/`.
-
 ## 6. Perguntas de negócio e dashboard
 
 O dashboard foi organizado em seis páginas, cada uma dedicada a uma
